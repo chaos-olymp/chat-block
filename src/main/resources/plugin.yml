@@ -1,0 +1,5 @@
+name: chat-block
+version: '${version}'
+main: de.chaosolymp.chatblock.ChatBlock
+api-version: 1.20
+authors: [Crousus]
